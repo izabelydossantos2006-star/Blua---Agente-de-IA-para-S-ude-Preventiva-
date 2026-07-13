@@ -1,6 +1,7 @@
 # Blua---Agente-de-IA-para-Saúde-Preventiva-
 Agente de IA para saúde preventiva que integra wearable (Colmi Ring) com Claude (Anthropic) para gerar insights personalizados de saúde. Projeto acadêmico FIAP em parceria com Care Plus (Bupa).
 
+
 📌 Sobre o projeto
 
 O Blua é um agente de inteligência artificial voltado para saúde preventiva, que integra dados de um dispositivo wearable (Colmi Ring) com um modelo de linguagem (Claude, da Anthropic) para gerar insights personalizados de saúde em tempo real.
@@ -8,6 +9,7 @@ O Blua é um agente de inteligência artificial voltado para saúde preventiva, 
 O objetivo é transformar dados biométricos brutos — frequência cardíaca, sono, atividade física, entre outros — em recomendações acessíveis e acionáveis, ajudando o usuário a antecipar riscos e adotar hábitos mais saudáveis antes que problemas se agravem.
 
 O projeto foi desenvolvido como iniciativa acadêmica da FIAP, em parceria institucional com a Care Plus (Bupa).
+
 
 🎯 Problema que resolve
 
