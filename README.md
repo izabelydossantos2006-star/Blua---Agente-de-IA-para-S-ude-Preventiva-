@@ -12,18 +12,3 @@ O projeto foi desenvolvido como iniciativa acadêmica da FIAP, em parceria insti
 🎯 Problema que resolve
 
 A maior parte das soluções de saúde digital hoje é reativa: o usuário só recebe atenção quando o problema já apareceu. O Blua propõe uma abordagem preventiva, usando IA para identificar padrões e sinais de alerta a partir de dados coletados continuamente pelo wearable, e comunicá-los de forma simples e compreensível — inclusive para públicos não-técnicos.
-
-
-📂 Estrutura do repositório
-blua/
-├── README.md
-├── docs/
-│   ├── arquitetura.md        # Documentação técnica do sistema
-│   └── pitch/                # Materiais da apresentação institucional
-├── prototype/                # Protótipo HTML navegável
-│   ├── index.html
-│   └── assets/
-├── algoritmos/
-│   └── ordenacao_pacientes.c # Selection Sort vs Merge Sort aplicado a dados de pacientes
-└── relatorios/
-    └── analise_performance.md
